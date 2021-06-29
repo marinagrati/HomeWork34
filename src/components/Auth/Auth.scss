@@ -1,0 +1,14 @@
+.auth {
+  &__box {
+    padding: 20px;
+  }
+
+  &__title {
+    text-align: center;
+  }
+
+  &__form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+}
